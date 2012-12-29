@@ -1,0 +1,13 @@
+0 0:running
+1 0:blocked 
+2 0:blocked
+3 0:running
+4
+5 1:running
+6 1:blocked
+7 1:running
+
+Finishing time: 7
+CPU utilization: 0.5
+Turnaround process 0: 4
+Turnaround process 1: 3
